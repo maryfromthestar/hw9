@@ -1,13 +1,13 @@
 # hw9
 
 # Задание 1
-Использовал регулярное выражение: \n\r заменил все вхождения на \0
+Использовал регулярное выражение: \n\r заменил все вхождения на 'пусто'
 ![ ](https://raw.githubusercontent.com/maryfromthestar/hw9/master/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%201.1%20%D0%B4%D0%BE%20%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD%D1%8B.PNG)
 
 Остались пустые строки, в которых введен только пробел.
 ![ ](https://raw.githubusercontent.com/maryfromthestar/hw9/master/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%201.2%20%D0%BF%D0%BE%D1%81%D0%BB%D0%B5%20%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD%D1%8B.PNG)
 
-Использовал регулярное выражение: \s*$ заменил все вхождения на \0
+Использовал регулярное выражение: \s*$ заменил все вхождения на 'пусто'
 
 ![ ](https://raw.githubusercontent.com/maryfromthestar/hw9/master/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%201.3%20%D0%BE%D1%81%D1%82%D0%B0%D0%BB%D0%B8%D1%81%D1%8C%20%D0%BF%D1%80%D0%BE%D0%B1%D0%B5%D0%BB%D1%8B.PNG)
 
